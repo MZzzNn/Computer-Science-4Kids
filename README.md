@@ -13,6 +13,6 @@
     - English
         - [Scratch Advanced](https://www.youtube.com/playlist?list=PLSgUBfi51uleKBqesGoy57po9kjuhiAN4)
 
-## Second Steps C++
+## Second Steps C++ Programming
 
 - [C++ 4kids & beginners Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
