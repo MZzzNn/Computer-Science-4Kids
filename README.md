@@ -2,6 +2,8 @@
 
 ## First Steps Scratch
 
+`اسكراتش هو لغة برمجة تعتمد على السحب والإفلات لإنشاء البرامج والألعاب. تعتبر أسهل لغة برمجة للأطفال والمبتدئين. تتيح للمستخدمين إنشاء الألعاب والبرامج بسهولة وسرعة`
+
 1. Scratck Online Editor or download the software.
     - [Scratch Online Editor](https://scratch.mit.edu/)
     - [Scratch Download](https://scratch.mit.edu/scratch2download/)
